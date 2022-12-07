@@ -19,11 +19,11 @@ Here are some ideas to get you started:
 
 [<img height="32" width="32" src="https://cdn.simpleicons.org/LinkedIn/white" align="left"/>](linkedIn)
 
-[<img height="32" width="32" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmedia-exp1.licdn.com%2Fdms%2Fimage%2FC4D0BAQG1AL6eXKd-_Q%2Fcompany-logo_200_200%2F0%2F1613159962451%3Fe%3D2159024400%26v%3Dbeta%26t%3DQjygYj_usV9_XqZJaudlyix0a0H4ulMorEPsRBfqzG4&f=1&nofb=1&ipt=39e18dc3e2ccb2466705b66699f2dd5432813b6b1ed2528f0420f70c9c2372e0&ipo=images" align="left"/>](Patika)
+[<img height="32" width="32" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmedia-exp1.licdn.com%2Fdms%2Fimage%2FC4D0BAQG1AL6eXKd-_Q%2Fcompany-logo_200_200%2F0%2F1613159962451%3Fe%3D2159024400%26v%3Dbeta%26t%3DQjygYj_usV9_XqZJaudlyix0a0H4ulMorEPsRBfqzG4&f=1&nofb=1&ipt=39e18dc3e2ccb2466705b66699f2dd5432813b6b1ed2528f0420f70c9c2372e0&ipo=images" align="left"/>](https://www.linkedin.com/in/muammer-aydemir-378314246/)
 
 
-[patika]:https://app.patika.dev/muammeraydemir
-[linkedIn]:https://www.linkedin.com/in/muammer-aydemir-378314246/
+[patika]: https://app.patika.dev/muammeraydemir
+[linkedIn]: https://www.linkedin.com/in/muammer-aydemir-378314246/
 
 <br />
 <br />
