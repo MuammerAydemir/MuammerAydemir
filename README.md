@@ -13,12 +13,12 @@
 
 ## :milky_way: Tech
 
-<img height="50rem" src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/java/java.png" align="left" style="margin-right: 10px;">
-<img height="50rem" src="https://github.com/user-attachments/assets/1cda1aa2-0dc0-4373-a882-1b402451c8d2" align="left" style="margin-right: 10px;">
-<img height="50rem" src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/python/python.png" align="left" style="margin-right: 10px;">
-<img height="50rem" src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/git/git.png" align="left" style="margin-right: 10px;">
-<img height="50rem" src="https://github.com/user-attachments/assets/0c3851f0-4569-4888-835e-4d2670aaf046" align="left" style="margin-right: 10px;">
-<img height="50rem" src="https://github.com/user-attachments/assets/b9ac43a3-12ea-4c3e-8843-e8c9d8a48862" align="left" style="margin-right: 10px;">
+<img height="50rem" width="50rem" src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/java/java.png" align="left" style="margin-right: 10px;">
+<img height="50rem" width="50rem" src="https://github.com/user-attachments/assets/1cda1aa2-0dc0-4373-a882-1b402451c8d2" align="left" style="margin-right: 10px;">
+<img height="50rem" width="50rem" src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/python/python.png" align="left" style="margin-right: 10px;">
+<img height="50rem" width="50rem" src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/git/git.png" align="left" style="margin-right: 10px;">
+<img height="50rem" width="50rem" src="https://github.com/user-attachments/assets/0c3851f0-4569-4888-835e-4d2670aaf046" align="left" style="margin-right: 10px;">
+<img height="50rem" width="50rem" src="https://github.com/user-attachments/assets/b9ac43a3-12ea-4c3e-8843-e8c9d8a48862" align="left" style="margin-right: 10px;">
 
 <br/>
 <br/>
