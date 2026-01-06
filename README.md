@@ -7,8 +7,9 @@
 
 <div>
     <a href="https://www.linkedin.com/in/muammer-aydemir-378314246/">
-        <img height="50" width="50" src="https://cdn.simpleicons.org/LinkedIn/white" />
+        <img height="50" width="50" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" />
     </a>
+<span height="5" width="5"/>
     <a href="https://app.patika.dev/muammeraydemir">
         <img height="50" width="50" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmedia-exp1.licdn.com%2Fdms%2Fimage%2FC4D0BAQG1AL6eXKd-_Q%2Fcompany-logo_200_200%2F0%2F1613159962451%3Fe%3D2159024400%26v%3Dbeta%26t%3DQjygYj_usV9_XqZJaudlyix0a0H4ulMorEPsRBfqzG4&f=1&nofb=1" />
     </a>
@@ -49,11 +50,7 @@
 <br/>
 
 ## :zap: GitHub Stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=MuammerAydemir&show_icons=true&theme=chartreuse-dark" style="width: 100%; max-width: 600px;"/>
+![Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=MuammerAydemir&theme=dracula)
+![StatsTable](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MuammerAydemir&theme=dracula)
 
 <br/>
-
-## :zap: Programming Languages
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuammerAydemir&theme=chartreuse-dark&layout=compact" style="width: 100%; max-width: 600px;"/>
